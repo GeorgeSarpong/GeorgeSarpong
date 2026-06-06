@@ -1,7 +1,7 @@
 # George Amankwaa Sarpong
 ## Data Center Operations & Critical Infrastructure Engineer | NOC | Cloud Infrastructure & DevOps
 
-📍 Accra, Ghana — Relocating to Northern Virginia, USA
+📍 Accra, Ghana — Relocating to USA
 🔗 [LinkedIn](https://linkedin.com/in/georgesarpong)
 📧 georgesarpong.cloud@gmail.com
 
@@ -15,7 +15,7 @@ Hands-on experience managing real production rack infrastructure including Dell 
 
 ---
 
-## 🎯 Target Roles
+##  Target Roles
 - Data Center Operations Engineer
 - Critical Infrastructure Engineer
 - NOC Engineer — Network Operations Center
@@ -24,7 +24,7 @@ Hands-on experience managing real production rack infrastructure including Dell 
 
 ---
 
-## 🏗️ Project Portfolio
+## Project Portfolio
 
 | Project | Focus Area | Status |
 |---|---|---|
@@ -41,7 +41,7 @@ Hands-on experience managing real production rack infrastructure including Dell 
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 **Data Center & Critical Infrastructure**
 ![Schneider DCCA](https://img.shields.io/badge/Schneider-DCCA-green)
@@ -71,7 +71,7 @@ Hands-on experience managing real production rack infrastructure including Dell 
 
 ---
 
-## 📊 Certifications
+##  Certifications
 - ✅ Schneider Electric DCCA
 - ✅ AWS Solutions Architect Professional
 - ✅ Microsoft Azure Solutions Architect Expert
