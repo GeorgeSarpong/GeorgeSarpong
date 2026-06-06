@@ -1,7 +1,7 @@
 # George Amankwaa Sarpong
 ## Data Center Operations & Critical Infrastructure Engineer | NOC | Cloud Infrastructure & DevOps
 
-📍 Accra, Ghana — Relocating to USA
+📍 Accra, Ghana 
 🔗 [LinkedIn](https://linkedin.com/in/georgesarpong)
 📧 georgesarpong.cloud@gmail.com
 
