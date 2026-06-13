@@ -4,10 +4,11 @@
 📍 Accra, Ghana 
 🔗 [LinkedIn](https://linkedin.com/in/georgesarpong)
 📧 georgesarpong.cloud@gmail.com
+📞 +233 244330585 (call & Whatsapp)
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Critical Infrastructure & Data Center Operations Engineer with 8+ years of experience managing mission-critical IT infrastructure, industrial automation systems, and production server environments.
 
@@ -42,7 +43,8 @@ Hands-on experience managing real production rack infrastructure including Dell 
 | [Cloud Infrastructure High Availability Design](https://github.com/GeorgeSarpong/cloud-infrastructure-high-availability-design) | Multi-AZ, Auto Scaling, DR, RTO/RPO | 🟢 Active |
 | [NOC Operations Runbooks Framework](https://github.com/GeorgeSarpong/noc-operations-runbooks-framework) | Alert Triage, Escalation, Shift Handover, SLA, PIR | 🟢 Active |
 | [NOC SLA & Uptime Management Framework](https://github.com/GeorgeSarpong/noc-sla-uptime-management) | SLA Tracking, Availability Calculator, Grafana Dashboards | 🟢 Active |
-
+| [DC Operations & Maintenance Procedures](https://github.com/GeorgeSarpong/dc-operations-maintenance-procedures) | Server Hardware, UPS, CRAC, Asset Management, Change Management | 🟢 Active |
+| [DC Capacity Planning & Energy Management](https://github.com/GeorgeSarpong/dc-capacity-planning-energy-management) | PUE Tracking, Power Capacity, Cooling Headroom, Growth Planning | 🟢 Active |
 ---
 
 ##  Technical Stack
@@ -76,20 +78,20 @@ Hands-on experience managing real production rack infrastructure including Dell 
 ---
 
 ##  Certifications
-- ✅ Schneider Electric DCCA
-- ✅ AWS Solutions Architect Professional
-- ✅ Microsoft Azure Solutions Architect Expert
-- ✅ HashiCorp Terraform Associate
-- ✅ Prometheus Certified Associate (PCA)
-- ✅ NVIDIA AI Infrastructure & Operations
-- ✅ OSHA 30-Hour General Industry (DOL Card)
-- ✅ NFPA 70E 2024 Electrical Safety
-- ✅ ITIL v4 Foundation
-- ✅ Azure Security Engineer AZ-500
-- ✅ Oracle Cloud Infrastructure Multicloud Architect
-- ✅ 46+ continuing education certificates
+- Schneider Electric DCCA
+-  AWS Solutions Architect Professional
+- Microsoft Azure Solutions Architect Expert
+- HashiCorp Terraform Associate
+- Prometheus Certified Associate (PCA)
+- NVIDIA AI Infrastructure & Operations
+- OSHA 30-Hour General Industry (DOL Card)
+- NFPA 70E 2024 Electrical Safety
+- ITIL v4 Foundation
+- zure Security Engineer AZ-500
+- Oracle Cloud Infrastructure Multicloud Architect
+- 46+ continuing education certificates
 
 ---
 
-*Available for US-based remote, hybrid, and on-site opportunities*
+*Available for US-based, Europe & UAE remote, hybrid, and on-site opportunities*
 *Authorized to work in the United States — spouse of US citizen*
