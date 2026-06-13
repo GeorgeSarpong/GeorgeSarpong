@@ -38,6 +38,8 @@ Hands-on experience managing real production rack infrastructure including Dell 
 | [Cloud Cost Optimisation & FinOps Implementation](#) | FinOps, CloudWatch, Cost Management | 🟢 Active |
 | [On-Premises to AWS Cloud Migration](#) | AWS MGN, DMS, EC2, RDS | 🟢 Active |
 | [Cloud-Native DevOps Transformation](#) | Docker, Kubernetes, GitHub Actions | 🟢 Active |
+| [Cloud Infrastructure Security & Compliance](https://github.com/GeorgeSarpong/cloud-infrastructure-security-compliance) | IAM, KMS, Security Hub, GuardDuty, SOC2, NIST | 🟢 Active |
+| [Cloud Infrastructure High Availability Design](https://github.com/GeorgeSarpong/cloud-infrastructure-high-availability-design) | Multi-AZ, Auto Scaling, DR, RTO/RPO | 🟢 Active |
 
 ---
 
