@@ -40,6 +40,8 @@ Hands-on experience managing real production rack infrastructure including Dell 
 | [Cloud-Native DevOps Transformation](#) | Docker, Kubernetes, GitHub Actions | 🟢 Active |
 | [Cloud Infrastructure Security & Compliance](https://github.com/GeorgeSarpong/cloud-infrastructure-security-compliance) | IAM, KMS, Security Hub, GuardDuty, SOC2, NIST | 🟢 Active |
 | [Cloud Infrastructure High Availability Design](https://github.com/GeorgeSarpong/cloud-infrastructure-high-availability-design) | Multi-AZ, Auto Scaling, DR, RTO/RPO | 🟢 Active |
+| [NOC Operations Runbooks Framework](https://github.com/GeorgeSarpong/noc-operations-runbooks-framework) | Alert Triage, Escalation, Shift Handover, SLA, PIR | 🟢 Active |
+| [NOC SLA & Uptime Management Framework](https://github.com/GeorgeSarpong/noc-sla-uptime-management) | SLA Tracking, Availability Calculator, Grafana Dashboards | 🟢 Active |
 
 ---
 
