@@ -17,8 +17,8 @@ Hands-on experience managing real production rack infrastructure including Dell 
 ---
 
 ##  Target Roles
-- Data Center Operations Engineer
-- Critical Infrastructure Engineer
+- Data Center Operations Engineer/Manager
+- Critical Infrastructure Engineer/Manager
 - NOC Engineer — Network Operations Center
 - Cloud Infrastructure Engineer
 - Cloud & DevOps Engineer
@@ -87,9 +87,9 @@ Hands-on experience managing real production rack infrastructure including Dell 
 - OSHA 30-Hour General Industry (DOL Card)
 - NFPA 70E 2024 Electrical Safety
 - ITIL v4 Foundation
-- zure Security Engineer AZ-500
+- Azure Security Engineer AZ-500
 - Oracle Cloud Infrastructure Multicloud Architect
-- 46+ continuing education certificates
+- 35+ continuing education certificates
 
 ---
 
