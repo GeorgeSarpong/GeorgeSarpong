@@ -19,7 +19,6 @@ Hands-on experience managing real production rack infrastructure including Dell 
 ##  Target Roles
 - Data Center Operations Engineer/Manager
 - Critical Infrastructure Engineer/Manager
-- NOC Engineer — Network Operations Center
 - Cloud Infrastructure Engineer
 - Cloud & DevOps Engineer
 
